@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Aposentadoria</string>
+    <string name="btn_calcular">Calcular</string>
+    <string name="text_apresentacao">Calcule quanto tempo falta para se aposentar.</string>
+    <string name="text_sexo">Escolha o sexo:</string>
+    <string name="text_digiteIdade">Digite sua idade:</string>
+    <string name="enter_user_age">Digite sua idade</string>
+</resources>
